@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Indian_StatesCensusAnalyser\Indian_StatesCensusAnalyser\IndianStatesCensusAnalyser.csproj" />
+    <ProjectReference Include="..\Indian_StatesCensusAnalyser\IndianStatesCensusAnalyser.csproj" />
   </ItemGroup>
 
 </Project>

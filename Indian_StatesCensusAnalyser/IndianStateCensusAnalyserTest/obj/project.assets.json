@@ -4794,8 +4794,8 @@
     },
     "IndianStatesCensusAnalyser/1.0.0": {
       "type": "project",
-      "path": "../../Indian_StatesCensusAnalyser/Indian_StatesCensusAnalyser/IndianStatesCensusAnalyser.csproj",
-      "msbuildProject": "../../Indian_StatesCensusAnalyser/Indian_StatesCensusAnalyser/IndianStatesCensusAnalyser.csproj"
+      "path": "../Indian_StatesCensusAnalyser/IndianStatesCensusAnalyser.csproj",
+      "msbuildProject": "../Indian_StatesCensusAnalyser/IndianStatesCensusAnalyser.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4813,11 +4813,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Assignment\\IndianCensusAnalyzer\\IndianStatesCensusAnalyser\\IndianStateCensusAnalyserTest\\IndianStateCensusAnalyserTest.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Assignment\\IndianCensusAnalyzer\\Indian_StatesCensusAnalyser\\IndianStateCensusAnalyserTest\\IndianStateCensusAnalyserTest.csproj",
       "projectName": "IndianStateCensusAnalyserTest",
-      "projectPath": "C:\\Users\\User\\Desktop\\Assignment\\IndianCensusAnalyzer\\IndianStatesCensusAnalyser\\IndianStateCensusAnalyserTest\\IndianStateCensusAnalyserTest.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Assignment\\IndianCensusAnalyzer\\Indian_StatesCensusAnalyser\\IndianStateCensusAnalyserTest\\IndianStateCensusAnalyserTest.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Assignment\\IndianCensusAnalyzer\\IndianStatesCensusAnalyser\\IndianStateCensusAnalyserTest\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Assignment\\IndianCensusAnalyzer\\Indian_StatesCensusAnalyser\\IndianStateCensusAnalyserTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
